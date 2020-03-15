@@ -1,4 +1,6 @@
-*NOTE: Make sure you have Node.js installed*
+# notes-app-nodejs
+
+**NOTE: Make sure you have Node.js installed**
 
 Clone the repository, open the terminal and change directory to the folder where you have cloned the repository
 
