@@ -6,14 +6,18 @@ Clone the repository, open the terminal and change directory to the folder where
 
 Run the following command to make sure you have all the dependencies install:
   
-  npm install
+  `npm install`
   
 COMMANDS:
 
-1. To add new a note: node app add --title="[title]" --body="[body]"
+1. To add new a note: 
+        `node app add --title="[title]" --body="[body]"`
 
-2. To remove a note:  node app remove --title="[title]"
+2. To remove a note:  
+        `node app remove --title="[title]"`
 
-3. To list all notes: node app list
+3. To list all notes: 
+        `node app list`
 
-4. To read a note: node app read --title="[title]"
+4. To read a note: 
+        `node app read --title="[title]"`
